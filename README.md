@@ -18,7 +18,7 @@ A user can:
 
 ## Tech Stack
 
-This app uses JavaScript, React-Native, Expo, AWS, S3 Buckets, Cognito, DynamoDB, API Gateway, Lambda and Google Maps.
+This app uses JavaScript, React-Native, Expo, Xcode, AWS, S3 Buckets, Cognito, DynamoDB, API Gateway, Lambda and Google Maps.
 
 ## Set up
 
