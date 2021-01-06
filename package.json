@@ -25,7 +25,7 @@
     "aws-amplify": "^3.0.9",
     "aws-amplify-react-native": "^4.1.0",
     "aws-sdk": "^2.667.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "expo": "^37.0.8",
     "expo-image-picker": "^8.1.0",
